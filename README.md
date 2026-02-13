@@ -9,12 +9,11 @@
 
 # 👋 Xin chào, tôi là Lê Tuấn Thông
 
-**Software Engineer | Backend Developer | Cloud Enthusiast**
+**Software Engineer | Backend Developer | Cloud/AI Enthusiast**
 
 > Lập trình viên với nhiều năm kinh nghiệm phát triển web. Đam mê xây dựng các hệ thống backend mạnh mẽ, tối ưu và có khả năng mở rộng cao.
 
 [![Email](https://img.shields.io/badge/Email-letuanthong350@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:letuanthong350@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-0938_179_726-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/0938179726)
 [![Location](https://img.shields.io/badge/Location-TP.%20Hồ%20Chí%20Minh-FF6B6B?style=flat-square&logo=google-maps&logoColor=white)](https://goo.gl/maps/HoChiMinh)
 [![Website](https://img.shields.io/badge/Portfolio-dev1sme.github.io-4A90E2?style=flat-square&logo=internet-explorer&logoColor=white)](https://dev1sme.github.io/)
 
@@ -175,13 +174,12 @@ Tôi luôn sẵn sàng lắng nghe về các cơ hội mới, dự án thú vị
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:letuanthong350@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/letuanthong)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev1sme)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev1sme)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://dev1sme.github.io/)
 
 **Email:** letuanthong350@gmail.com  
-**Điện thoại:** 0938 179 726  
-**Địa chỉ:** Nhà Bè, TP. Hồ Chí Minh
+**Địa chỉ:** TP. Hồ Chí Minh
 
 </div>
 
@@ -201,8 +199,6 @@ Tôi luôn sẵn sàng lắng nghe về các cơ hội mới, dự án thú vị
 
 **© 2026 Lê Tuấn Thông. Bảo lưu mọi quyền.**
 
-Được xây dựng với ❤️ bằng Markdown
-
 </div>
 
 ---
@@ -211,14 +207,13 @@ Tôi luôn sẵn sàng lắng nghe về các cơ hội mới, dự án thú vị
 
 <a name="english"></a>
 
-# 👋 Hello, I'm Lê Tuấn Thông
+# 👋 Hello, I'm Lê Tuấn Thông 
 
-**Software Engineer | Backend Developer | Cloud Enthusiast**
+**Software Engineer | Backend Developer | Cloud/AI Enthusiast**
 
 > Software engineer with extensive experience in web development. Passionate about building powerful, optimized backend systems with high scalability.
 
 [![Email](https://img.shields.io/badge/Email-letuanthong350@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:letuanthong350@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-0938_179_726-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/0938179726)
 [![Location](https://img.shields.io/badge/Location-Ho%20Chi%20Minh%20City-FF6B6B?style=flat-square&logo=google-maps&logoColor=white)](https://goo.gl/maps/HoChiMinh)
 [![Website](https://img.shields.io/badge/Portfolio-dev1sme.github.io-4A90E2?style=flat-square&logo=internet-explorer&logoColor=white)](https://dev1sme.github.io/)
 
@@ -379,13 +374,12 @@ I'm always ready to listen to new opportunities, interesting projects or simply 
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:letuanthong350@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/letuanthong)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dev1sme)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev1sme)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://dev1sme.github.io/)
 
 **Email:** letuanthong350@gmail.com  
-**Phone:** 0938 179 726  
-**Location:** Nha Be, Ho Chi Minh City
+**Location:** Ho Chi Minh City
 
 </div>
 
@@ -404,7 +398,5 @@ I'm always ready to listen to new opportunities, interesting projects or simply 
 ![Profile Views](https://komarev.com/ghpvc/?username=dev1sme&style=flat-square&color=blue)
 
 **© 2026 Lê Tuấn Thông. All rights reserved.**
-
-Built with ❤️ using Markdown
 
 </div>
