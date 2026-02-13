@@ -33,5 +33,5 @@
 
 #### 📊 GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dev1sme&hide=stars&hide_title=true&include_all_commits=true&show_icons=true&count_private=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dev1sme&layout=compact&langs_count=6&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://vercel-github-readme-stats-psi.vercel.app/api?username=dev1sme&hide=stars&hide_title=true&include_all_commits=true&show_icons=true&count_private=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub language stats](https://vercel-github-readme-stats-psi.vercel.app/api/top-langs/?username=dev1sme&layout=compact&langs_count=4&theme=default)](https://github.com/anuraghazra/github-readme-stats)
