@@ -156,10 +156,10 @@ Dự án nghiên cứu về ứng dụng Machine Learning trong dự đoán và 
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev1sme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev1sme&layout=compact&theme=dracula" alt="Top Languages"/>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev1sme&theme=dracula" alt="GitHub Streak"/>
@@ -356,10 +356,10 @@ A research project on the application of Machine Learning in prediction and data
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev1sme&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev1sme&layout=compact&theme=dracula" alt="Top Languages"/>
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev1sme&theme=dracula" alt="GitHub Streak"/>
