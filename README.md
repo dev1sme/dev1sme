@@ -4,7 +4,7 @@
 🌱 I'm currently experimenting with [Cloud & DevOps tools 🛠](https://github.com/topics/cloud) <br />
 👯 I'm looking to collaborate on more backend and open source projects <br />
 💬 Ask me about Java, Spring Boot, System Design, or anything tech-related. I'd be glad to help (if I can ✨) <br />
-📫 How to reach me: Shoot me an email at <a href="mailto:letuanthong350@gmail.com"><img src="https://img.shields.io/static/v1?label=%F0%9F%92%8C&message=letuanthong350@gmail.com&labelColor=lightgrey&height=30&color=0072c6" alt="letuanthong350@gmail.com" valign="middle"></a> <br />
+📫 How to reach me: Shoot me an email at <a href="mailto:letuanthong350@gmail.com"><img src="https://img.shields.io/static/v1?label=%F0%9F%92%8C&message=contact@dev1sme.cloud&labelColor=lightgrey&height=30&color=0072c6" alt="letuanthong350@gmail.com" valign="middle"></a> <br />
 😄 Pronouns: he/him <br />
 ⚡ Fun fact: I ❤ building scalable backend systems
 
